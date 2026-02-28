@@ -210,10 +210,6 @@
         font-size: 14px;
     }
 
-    .nav-area.sticky{
-        display: flex;
-    }
-
     .header-right .nav-menu{
         display: none;
     }

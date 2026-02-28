@@ -426,6 +426,10 @@
         font-size: 14px;
     }
 
+    .footer-menu li a {
+        font-size: 12px;
+    }   
+
     .footer-box form {
         display: flex;
         gap: 20px;

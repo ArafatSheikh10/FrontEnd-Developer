@@ -355,15 +355,3 @@ $(document).ready(function() {
     // ===== Particles Js End
 
 
-
-
-
-    // Get audio element
-    const audio = document.getElementById("bgMusic");
-    const loader = document.getElementById("loader");
-
-    // Wait for user interaction to start music
-    loader.addEventListener('click', function() {
-        audio.play();
-        loader.style.display = 'none'; 
-    });
